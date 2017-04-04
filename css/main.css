@@ -1,0 +1,28 @@
+#main_title{
+
+	text-align: center;
+	font-family: 'Timmana', sans-serif;
+	font-size: 6vw;
+}
+
+#main_text{
+
+	font-family: 'Lora', serif;	
+	font-size: 3vw;
+}
+
+.container_title {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.item_title_main {
+
+	width: 100%;
+	margin: auto;
+
+
+}
