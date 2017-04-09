@@ -13,3 +13,10 @@ function myFunction() {
 			}
 		}
 }
+
+function hover(element) {
+    element.setAttribute('src', 'imgs/maya_link_alt.png');
+}
+function unhover(element) {
+    element.setAttribute('src', 'imgs/maya_link.png');
+}
